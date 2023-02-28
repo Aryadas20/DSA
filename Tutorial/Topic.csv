@@ -1,0 +1,93 @@
+No,Topic
+Tut1,Introduction to DSA
+Tut2,Time complexity and Big o notation
+Tut3,Asymptotic notation
+Tut4,Best case, worst case, Average case
+Tut5,How to calculate time complexity
+Tut6,Arrays and abstract data type in data structure
+Tut7,Array as abstract data type in data structure
+Tut8,Implementing Array as Abstract data type 
+Tut9,operations in Arrays in Data structures:Trasversal,Insertion,deletionand searching
+Tut10,Insertion operations in DSA
+Tut11,Deletion operations in DSA
+Tut12,Linear search and binary search
+Tut13,Introduction to linked list
+Tut14,Linked list dsa creation and Trasversal
+Tut15,Insertion of node in a Linked list data structure
+Tut16,Insertion in a linked list in vs code
+Tut17,Deletion of a node in a Linked list 
+Tut18,Deletion of a node in a Linked list data structure in vs code
+Tut19,Circular linked list and operations
+Tut20,Circular linked list vs code
+Tut21,Doubly linked list Explained with c
+Tut22,Introduction to stack in dsa
+Tut23,Implementation of stack
+Tut24,c code for stack
+Tut25,push pop and other operations
+Tut26,coding push pop
+Tut27,peek operations in stack using Arrays
+Tut28,stack top stack bottom  and time complexity operations
+Tut29,How to Implement stack using linked list?
+Tut30,Implementing all the stack operations using linked list
+Tut31,peek stack top  and other operations
+Tut32,parathensis Matching problem using stack dsa
+Tut33,parathensis checking using stack in C language 
+Tut34,Multiple parathensis Matching using Stack in c code
+Tut35,Infix prefix sufix 
+Tut36,Infix to postfix
+Tut37,coding Infix to postfix
+Tut38,Queue dsa 
+Tut39,Queue Implementation 
+Tut40,Array Implementation of Queue and its operations
+Tut41,c code for Queue and its operations using Array in DSA
+Tut42,Introduction to Circular Queue 
+Tut43,enque deque and Circular queue 
+Tut44,c code for Circular queue and operations on Circular queue 
+Tut45,queue using linked list
+Tut46,Implementation Queue using Linked using linked list in c 
+Tut47,Double ended queue in data structure
+Tut48,Introduction to sorting algorithm
+Tut49,criteria For analysis of sorting algorithm  
+Tut50,Bubble sort algorithm
+Tut51,Bubble sort algorithm in c 
+Tut52,Insertion Sort algorithm
+Tut53,Insertion Sort in c 
+Tut54,Selection sort algorithm
+Tut55,Selection sort algorithm in C
+Tut56,Quick sort algorithm in c 
+Tut57,analysis of Quick sort algorithm
+Tut58,Merge sort algorithm
+Tut59,Merge sort algorithm in c 
+Tut60,Count sort
+Tut61,Introduction to trees
+Tut62,what is a binary trees
+Tut63,Types of binary trees
+Tut64,Representation of binary tree
+Tut65,Linked Representation of binary tree in c 
+Tut66,Trasversal in binary tree
+Tut67,Preorder traversal in a Binary tree 
+Tut68,Post order traversal in a Binary tree
+Tut69,Inorder traversal in a Binary tree
+Tut70,Best trick to find Preorder, Inorder,and postoder
+Tut71,Binary search Trees: Introduction and properties
+Tut72,checking if a binary tree is a binary tree or not
+Tut73,searching in a Binary search Trees
+Tut74,C code for searching in a Bst
+Tut75,Iterative search
+Tut76,Insertion in a Binary search
+Tut77,Deletion in a Binary search
+Tut78,C code for deletion in a search Tree
+Tut79,AVL trees Introduction
+Tut80,Insertion and Rotation in Avl
+Tut81,AVL tree LL RR RL and RR
+Tut82,C code For AVL tree Insertion and Rotation
+Tut83,Introduction to graphs
+Tut84,Representation of graphs Adjacency list,
+Tut85,graphs traversal and graphs traversal algorithm
+Tut86,Breadth first search graphs traversal in dsa
+Tut87,BFS Implementation in c 
+Tut88,Depth first search Graph Trasversal in dsa 
+Tut89,DFS Implementation in c
+Tut90,Spanning tree and maximum no of possible Spanning tree
+Tut91,calculating Spanning tree cost and Minimum Spanning tree
+Tut92,Prims Minimum Spanning tree algorithm
